@@ -1,0 +1,6 @@
+name: TpWithVehicle
+version: @version@
+main: io.ib67.bukkit.tpwithvehicle.TpWithVehicle
+api-version: 1.15
+depend: [ QualityArmoryVehicles ]
+authors: [ iceBear67 ]
